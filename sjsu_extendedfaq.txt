@@ -1,0 +1,108 @@
+Q: How do I begin my application?
+A:Please follow the MS Software Engineering application submission process. This web page will answer many of your questions about submitting an application. You should also review the information provided by Graduate Admissions.
+Q: What are the application deadlines?
+A: University admission deadlines are listed at Graduate Admissions page. 
+Q: Do you accept late applications?
+A: At this time we do NOT accept late applications.
+Q: What is the Graduate Admissions and Program Evaluation (GAPE) office?
+A:Applications are evaluated in a two-step process, first by the GAPE office then the department. The GAPE office administers all graduate admissions. It checks that your applications fulfill the minimum university criteria for admission. It checks your transcripts, degree certificates, TOEFL scores, visa status, and financial information. Currently, GAPE requires an evaluation of your transcripts by World Education Services (WES). Visit the GAPE web site for more information about WES evaluation for SJSU applications. 
+Once Graduate Studies is satisfied that you are qualified to join the university, then it forwards your file to the department. This step is called "Referred to Department". During this step a Computer Engineering department advisor will evaluate your likelyhood of success in the MS Software Engineering program and make a decision about whether to extend admission to you.
+Q: I have questions about providing documents (such as transcripts and degree certificates) and test scores (such as TOEFL and GRE scores). Whom do I contact?
+A: Documents and test scores should be submitted directly to GAPE. Please see the GAPE web site more information. Please do NOT contact a Computer Engineering department advisor or staff member for help with document submission as they will not be able to help you. If you have issues or questions about submitting documents, please contact GAPE and not the MS Software Engineering Advisor.
+Q:  I have questions about the MS Software Engineering program. Whom do I contact?
+A:Visit office hours page and look for the MSSE Advisor. The times and location for advising sessions will be listed. The advising sessions are walk-in, group sessions for current, newly admitted, and prospective students. You do NOT need an appointment. Attending an advising session as a prospective student will allow you to hear from current graduate students as well have questions answered by an advisor. 
+
+Q: What are the application fees?
+A: Please check with the application web site, Cal State Apply, for university fees.
+
+Q: Do I need to submit letters of recommendation with my application?
+A: Letters of Recommendation should NOT be submitted unless requested by the MS Software Engineering graduate advisor.
+
+Q: I need to know NOW whether you will accept me later, so that I can decide whether to work on undergraduate prerequisites, or whether I should try applying at a different university.
+A: Unfortunately, we cannot give you a guarantee now that we will admit you later.
+
+Q: I fulfill all requirements for admission. Am I guaranteed to be accepted?
+A: Unfortunately, no. When there are more qualified applicants than we have space available in the program, we offer admission to those whom we consider the most promising applicants, until all space is filled. 
+
+Q: What is an ABET accredited program?
+A: ABET is the Accreditation Board for Engineering and Technology. It is the official accreditation board for Software Engineering, Computer Engineering, and Computer Science programs in the United States. You will find a list of accredited universities at the ABET web site.
+
+Q: I do not have an Computer Science, Software Engineering, or Computer Engineering undergraduate degree but I do have an Engineering or Science degree. Can I be admitted conditionally classified?
+A: Possibly, but you will be assigned prerequisite courses. The prerequisite courses you will be assigned are: CMPE 050 or CS 49J; CMPE 126 or CS 46B; CMPE 138; and CMPE 142. You can choose to either take these courses or take a subject test. If you take the courses, you must achieve a B grade or better.  The equivalent of the first two prerequisites can be taken at a community college that provides courses that are listed (articulated) in Articulation. If you take the classes in the Computer Engineering department, the conditions can be cleared with three courses specifically designed for graduate students. See test for new graduate students page for more detail.
+Q: I work during the day. Can I obtain the MSSE degree while working?
+A: Yes—the graduate courses are offered in the late afternoons and evenings. You have up to 7 years (!) to finish the degree, although we naturally don't recommend that you actually take that long. Many of our students are professionals who obtain the MS degree while working full-time.
+Q: I have been in California for X months/years. Am I entitled to in-state tuition?
+A: I don't know. This information should be obtained from the online catalog, the SJSU web site or Graduate Student Services.
+Q: I am an international student. Is there additional information available?
+A:The International Programs and Student Services office has an excellent website.
+Q: What form of financial assistance is available from the department?
+A: Unfortunately, financial assistance is very limited. The department does not offer full scholarships or tuition waivers. A limited number of teaching associate, grader and lab assistant positions are available. However, these positions are generally not open to incoming students. The salary for these positions is not high, and you should not rely on them for financial support. You may also be able to obtain more information from the Financial Aid department.
+Q: I am an international student and need to be enrolled in a degree program to obtain a student visa. However, I do not qualify for admission to the MSSE program. How can I take the courses that I need to prepare myself?
+A: You may consider enrolling in the BS in Software Engineering (BSSE) program. If you already have another college degree, the "Second Baccalaureate" program may be appropriate for you. Note that San Jose State University is currently not offering admissions for Second Bachelors programs.
+Q: What does it mean to enroll as a "second bachelor student"?
+A: Second bachelor students are students that possess a bachelors degree in another field. When pursuing a second bachelors degree, these students are exempt from the core GE courses—except that they have to take US and California history and government (usually 6 units) if they haven't already. They are expected to satisfy all of the major requirements. The Software Engineering program allows courses taken elsewhere to count just as for ordinary transfer students. Applications are made for an undergraduate degree at  (please indicate the current degree you possess). Foreign students are required to have a minimum TOEFL score of 550 (or 213 computer based). For more information on the BSSE degree.
+Q: What is "Open University"?
+A:"Open University" at SJSU allows individuals that are not registered in a degree program to take university courses. There are a number of restrictions.
+
+- There must be space available in the course after all degree program students have registered
+
+- The instructor must agree to admit the student
+
+- The student must fulfill all prerequisites to the course
+
+- Students who have been denied admission in a graduate program cannot register for graduate courses
+
+Open University classes are not available to students that intend to apply for a degree program. Note also that open university courses must be transferred into a degree program. Requests to transfer open university courses to the MS Software Engineering degree program will be denied if an application to the MS Software Engineering program was submitted while the course was in progress.
+
+Q: I concluded that I need to take quite a few courses before I am ready to apply for the MSSE program. Can you advise me what courses I should take?
+A: If you need "quite a few courses", your best bet is to pursue a "Second Bachelors" degree. An undergraduate advisor for the BSSE program can then best help you chose courses.
+Q: I am taking a class that is not part of my program of studies. Will the class count towards my GPA?
+A: Yes. All classes that you take once you are admitted to the program count towards your GPA. This also includes any classes you repeat to pass a failing class or improve the grade for the class. For graduate students, repeating a class does not cause the grade to be replaced.
+Q: What happens if my GPA drops to 3.0 or less?
+A: If your cumulative GPA is < 3.0, then you are on probation. If you are on probation, you cannot register without seeing an advisor first cannot graduate
+cannot start your master's project or thesis
+will be disqualified from the MSSE program if your semester GPA is < 3.0 while you are on probation
+
+See the Probation and Disqualification page in the catalog.
+
+Once your cumulative GPA is again >= 3.0, you are no longer on probation.
+
+You should try very hard not to get onto probation in the first place. You should plan on getting a B+ or better in all your courses. If you do end up getting a B or less in one course, make sure that you have another course to make up for it.
+
+Q: How is GPA important for my graduation?
+A: Two GPA calculations are  important for your graduation:
+
+1. Your cumulative GPA. Cumulative GPA is for all classes you have taken while since you became a graduate student. 
+
+2. Your Candidacy GPA.Candidacy GPA for the 10 classes (30 units) you declare on your Candidacy form plus any classes you put on your candidacy form that you repeated. This calculation does not include the grade you received for your competency in written English class (such as CMPE 294).
+
+Both GPAs must be 3.0 or better for you to graduate. Note that classes you transfer from another university do not contribute to GPA.
+ 
+
+Q: What happens if I get a C- or lower in a class?
+A: A C- grade or lower is a failing grade for a graduate student. The means:
+
+You cannot use that class for graduation. You can repeat it or select another course if it is an elective class. Note that if you repeat a class, all  
+Your GPA will suffer, and you'll probably go on probation. For more information, see the graduate program section in the university catalog.
+Q: I was put on probation, and now I can't register for classes. What should I do?
+A: See the graduate advisor. 
+
+Q: I got disqualified from the program. What should I do?
+A: First see the graduate coordinator. Be prepared to explain your situation. With the approval of the department chair, you can file a petition for reinstatement.  
+
+Q: I would like to take a course from another department. What should I do?
+A: Before you register, see the graduate coordinator. Bring a copy of the syllabus for the course with you. The graduate coordinator will evaluate the syllabus, or ask a faculty member who is familiar with the subject matter to carry out the evaluation. Courses may be approved as elective courses, at the discretion of the graduate advisor.
+
+Q: How many courses can I take from other departments?
+A: You can take up to 6 credit hours (i.e. 2 courses) from outside the department. Note that this 2-course allowance includes transfer courses.
+
+Q: What happens if I need to suspend my studies?
+A: You can skip taking classes for one semester and not suffer any impact. No paperwork is required. However, if there is any possibility that your leave may extend beyond one semester,then you should file a Leave of Absence form before your leave begins. Otherwise you will lose your student status and have to reapply to the university. Review the catalog and find more information. 
+
+Q: Can CMPE 271 be used as an elective course to satisfy my degree requirements?
+A: No. Students admitted into the MSSE program are expected to already know an objected-oriented language such as Java or C++. Consequently, CMPE 271 is considered a remedial course and is not being offered.
+
+Q: How do I change the MSSE specialization that I wish to pursue ?
+A: There is no form required to change your specialization. Simply take the specialization core courses for the specialization that you will complete. You will be required to declare your specialization at the time you file your candidacy form.
+Q: What does student probation and disqualification mean?
+A: A student whose cumulative GPA is below 3.0 is put on academic probation. When a student is on probation, he or she must attain a semester GPA of greater than 3.0 for each semester while on probation or the student will be disqualified. Once disqualified, a student is dropped from the university. Although the university allows a disqualified student to petition for reinstatement, the Computer Engineering department is no longer approving Petitions of for Reinstatement that require a program of studies for reinstatement.
